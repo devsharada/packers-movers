@@ -1,0 +1,220 @@
+/*---======== Responsive Css For All Device Section====== -------*/
+/* Smartphones (portrait and landscape) ---------- */
+@media screen and (min-width: 320px) and (max-width: 480px){
+    .sticky-form .nav-pills .nav-item{
+        width:100%;
+    }
+    .footLogo a img{
+        height:80px;
+    }
+    .navbar-brand img {
+        height: 60px;
+    }
+    .placeDiv .place {
+        width: 125px;
+        height: 125px;
+    }
+    .Bigbanner{
+        height: auto;
+    }
+    .img-border img{
+        height: 345px;
+    }
+    .tips-carousel .owl-nav .owl-next i{
+        right: -10%;
+    }
+    .tips-carousel .owl-nav .owl-prev i{
+        left: -10%;
+    }
+    .formHead{
+        margin-top: 70px;
+        padding-left: 8px;
+    }
+}
+
+/* Smartphones (portrait) ---------- */
+@media screen and (max-width: 320px){
+    .placeDiv .place {
+        width: 100px;
+        height: 100px;
+    }
+    .Bigbanner{
+        height: auto;
+    }
+    .about_Sec{
+        height: auto;
+    }
+    .video_Sectxt{
+        height: auto;
+    }
+    .formHead{
+        margin-top: 90px;
+    }
+}
+/* Smartphones (landscape) ---------- */
+@media screen and (min-width: 321px){
+   
+}
+@media screen and (min-width: 480px) and (max-width: 768px){
+    .placeDiv .place {
+        width: 150px;
+        height: 150px;
+    }
+    .Bigbanner{
+        height: auto;
+    }
+    .img-border img{
+        height: 345px;
+    }
+    .tips-carousel .owl-nav .owl-next i{
+        right: -6%;
+    }
+    .tips-carousel .owl-nav .owl-prev i{
+        left: -6%;
+    }
+    .navbar-brand img {
+        height: 60px;
+    }
+    .formHead{
+        margin-top: 55px;
+    }
+}
+@media screen and (min-width:576px){
+    .callDiv{
+        left: 10px;
+    }
+}
+@media screen and (max-width: 768px){
+    .serviceLift{
+        margin-top: 0px;
+    }
+    .sticky-form{
+        height: auto;
+    }
+    .about_Sec{
+        height: auto;
+    }
+    .video_Sectxt{
+        height: auto;
+    }
+}
+/* Tablets, iPads (portrait and landscape) ---------- */
+@media screen and (min-width: 768px) and (max-width: 992px){
+    .serviceLift{
+        margin-top: 0px;
+    }
+    .img-border {
+        height: 400px;
+    }
+    .about_Sec{
+        height: 294px;
+    }
+    .formHead{
+        margin-top: 40px;
+    }
+    .sticky-form{
+        height: auto;
+    }
+     .video_Sectxt{
+        height: 250px;
+    }
+}
+/* Tablets, iPads (portrait and landscape) ---------- */
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    .navbar-brand img {
+        height: 60px;
+    }
+    .navbar .navbar-nav .nav-link{
+        margin-right:10px;
+        padding: 9px 6px;
+        font-size: 13px;
+    }
+    .placeDiv .place {
+        width: 120px;
+        height: 120px;
+    }
+    .Bigbanner{
+        height: auto;
+    }
+    .img-border img{
+        height: 345px;
+    }
+    .tips-carousel .owl-nav .owl-next i{
+        right: -6%;
+    }
+    .tips-carousel .owl-nav .owl-prev i{
+        left: -6%;
+    }
+}
+/* Tablets, iPads (portrait) ---------- */
+@media screen and (min-width: 768px){
+    
+}
+@media screen and (min-width: 992px){
+    .formHead{
+        margin-top: 0px;
+    }
+}
+/* Tablets, iPads (landscape) ---------- */
+@media screen and (min-width: 1024px){
+    .tips-carousel .owl-nav .owl-next i {
+        right: -4%;
+    }
+    .tips-carousel .owl-nav .owl-prev i {
+        left: -4%;
+    }
+    .placeDiv .place {
+        width: 120px;
+        height: 120px;
+    }
+    .navbar .navbar-nav .nav-link{
+        font-size: 13px;
+        margin-right:10px;
+    }
+    .navbar-brand img {
+        height: 60px;
+    }
+}
+@media screen and (min-width: 1120px){
+    .navbar .navbar-nav .nav-link{
+        margin-right:10px;
+        padding: 9px 6px;
+    }
+    .placeDiv .place {
+        width: 150px;
+        height: 150px;
+    }
+    .navbar-brand img {
+        height: 80px;
+    }
+    .callDiv {
+        bottom: 2%;
+    }
+}
+/* Desktops and laptops ---------- */
+@media screen and (min-width: 1224px){
+     .navbar .navbar-nav .nav-link{
+         margin-right:16px;
+         font-size: 15px;
+        }
+        .placeDiv .place {
+            width: 170px;
+            height: 170px;
+        }
+}
+
+@media screen and (min-width: 1450px){
+   .navbar .navbar-nav .nav-link{
+         margin-right:30px;
+        }
+        .placeDiv .place {
+            width: 200px;
+            height: 200px;
+        }
+}
+/* Large screens ---------- */
+@media screen and (min-width: 1824px){
+ .inner-body {
+    margin-top: 5%;
+}  
+}
