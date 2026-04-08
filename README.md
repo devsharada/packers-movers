@@ -1,6 +1,6 @@
-🌐 Sharada UI Project
+🌐 Packers Movers Project
 
-A clean and modern UI built using HTML, CSS, Bootstrap v5, Javascript.  
+A clean and modern UI built using HTML5, CSS3, Bootstrap v5, Javascript.  
 This project focuses on responsive design and user-friendly interface.
 
 ✨ Features
@@ -13,6 +13,6 @@ This project focuses on responsive design and user-friendly interface.
 - HTML5
 - CSS3
 - Bootstrap v5
-- JS
+- Javascript
 
 
